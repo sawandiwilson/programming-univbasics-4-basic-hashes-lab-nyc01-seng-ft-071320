@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-
+{ :pioneer => 'Grace Hopper'
 end
 
 
