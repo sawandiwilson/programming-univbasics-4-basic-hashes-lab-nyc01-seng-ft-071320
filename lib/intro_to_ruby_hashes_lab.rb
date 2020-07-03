@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
- { name: pioneer}
+ { name: "Grace Hopper"}
 end
 
 
